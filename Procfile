@@ -1,1 +1,1 @@
-web:gunicorn talabatgram.wsgi
+web: gunicorn talabatgram.wsgi
