@@ -35,18 +35,7 @@ The frontend is made with HTML, CSS/Bootstrap and JS/Jquery
 * Notification Panel and Popup notification for Like, Comment and follow.
 
 
-## Images
-### Signup Page
-![Signup Page](signup.png)
 
-### Home Page
-![Home Page](home.png)
-
-### Profile Page
-![Profile Page](profile.png)
-
-### Messages Page
-![Messages Page](inbox.png)
 
 
 ## Credit
